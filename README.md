@@ -1,2 +1,6 @@
-# Simple-Python3-UI
+# GUI Programs
+
+#### * Simple-Python3-UI:
 User interface utilizing python3, openCV installation required
+
+#### * Java Calculator
