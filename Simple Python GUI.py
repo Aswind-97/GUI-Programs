@@ -1,5 +1,6 @@
 #Anthony Lopez
-#Simple Python GUI to use system camera to capture image and display a GUI around it
+#Simple Python GUI to use system camera to capture image 
+#and display a GUI around it
 #GUI Application Spring 2020
 
 
