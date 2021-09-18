@@ -1,6 +1,8 @@
 #Anthony Lopez
-#Intro to SE
+#Simple Python GUI to use system camera to capture image and display a GUI around it
 #GUI Application Spring 2020
+
+
 from tkinter import *
 import tkinter as tk
 import numpy as np
